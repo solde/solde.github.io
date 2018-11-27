@@ -2,11 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solde on Solde</title>
-    <link>https://example.com/</link>
+    <link>solde.github.io/</link>
     <description>Recent content in Solde on Solde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Nov 2018 19:44:38 +0100</lastBuildDate>
+    <atom:link href="solde.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fist commit</title>
+      <link>solde.github.io/2018/test/</link>
+      <pubDate>Thu, 15 Nov 2018 19:44:38 +0100</pubDate>
+      
+      <guid>solde.github.io/2018/test/</guid>
+      <description>&lt;p&gt;Hello world,
+that&amp;rsquo;s my web site, here I&amp;rsquo;m going to post something about computer engineering or I don’t know, something.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

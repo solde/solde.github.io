@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://example.com/categories/</loc>
+      <loc>solde.github.io/2018/test/</loc>
+      
+      <lastmod>2018-11-15T19:44:38+01:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>solde.github.io/categories/</loc>
       
       
       
@@ -13,7 +23,9 @@
     </url>
   
     <url>
-      <loc>https://example.com/</loc>
+      <loc>solde.github.io/posts/</loc>
+      
+      <lastmod>2018-11-15T19:44:38+01:00</lastmod>
       
       
       
@@ -23,7 +35,19 @@
     </url>
   
     <url>
-      <loc>https://example.com/tags/</loc>
+      <loc>solde.github.io/</loc>
+      
+      <lastmod>2018-11-15T19:44:38+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>solde.github.io/tags/</loc>
       
       
       
